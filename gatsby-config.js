@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: config.siteTitle,
     description: '',
-    siteUrl: '', // No trailing slash allowed!
-    image: '', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://vatsalramani.github.io', // No trailing slash allowed!
+    image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
   plugins: [
