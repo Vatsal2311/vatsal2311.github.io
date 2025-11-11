@@ -61,18 +61,25 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Vatsal Ramani.</h2>;
-  const three = (
-    <h3 className="big-heading">I build intelligent and efficient embedded systems!</h3>
-  );
+  const three = <h3 className="big-heading">I build intelligent, efficient embedded systems!</h3>;
   const four = (
     <>
       <p>
         I’m a recent graduate student from San Francisco State University with a Master’s in ECE.{' '}
         <br></br> I have a keen interest in Embedded Systems, Firmware Development, and Automotive
-        System Integration.I’m driven by curiosity, innovation, and a deep passion for cars and
-        embedded intelligence
-        <p>I also enjoy building real-time applications on resource-constrained devices!</p>
-        <p>Actively seeking opportunities to build reliable, efficient embedded solutions.</p>
+        System Integration.
+        <p>
+          I’m driven by curiosity, innovation, and a deep passion for cars and embedded
+          intelligence.
+        </p>
+        <p>
+          I’m actively seeking full-time opportunities to build the next generation of smart,
+          connected automotive systems.
+        </p>
+        {/* <br></br>I’m driven by curiosity, innovation, and a deep passion for cars and
+        embedded intelligence */}
+        {/* <p>I also enjoy building real-time applications on resource-constrained devices!</p>
+        <p>Actively seeking opportunities to build reliable, efficient embedded solutions.</p> */}
       </p>
     </>
   );
