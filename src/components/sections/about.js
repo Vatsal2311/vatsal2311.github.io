@@ -133,7 +133,7 @@ const About = () => {
     'Embedded Linux',
     'Multithreading',
     'Bootloaders',
-    'Integration',
+    'System Integration',
     'Unit Testing',
     'Git',
   ];
