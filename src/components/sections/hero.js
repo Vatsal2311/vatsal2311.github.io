@@ -67,10 +67,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a recent graduate student from San Francisco State University with a Master’s in
-        Electrical and Computer Engineering. <br></br> I have a keen interest in Embedded Systems,
-        Firmware Development, and Automotive System Integration.I’m driven by curiosity, innovation,
-        and a deep passion for cars and embedded intelligence
+        I’m a recent graduate student from San Francisco State University with a Master’s in ECE.{' '}
+        <br></br> I have a keen interest in Embedded Systems, Firmware Development, and Automotive
+        System Integration.I’m driven by curiosity, innovation, and a deep passion for cars and
+        embedded intelligence
         <p>I also enjoy building real-time applications on resource-constrained devices!</p>
         <p>Actively seeking opportunities to build reliable, efficient embedded solutions.</p>
       </p>
